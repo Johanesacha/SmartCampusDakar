@@ -1,0 +1,2 @@
+# SmartCampusDakar
+SchoolProject
